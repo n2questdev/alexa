@@ -1,0 +1,7 @@
+GetGoldbookIntent tell me Golden rule
+GetGoldbookIntent give me a Golden rule
+GetGoldbookIntent tell me something
+GetGoldbookIntent help me improve
+GetGoldbookIntent for a Golden rule
+GetGoldbookIntent rule
+GetGoldbookIntent something
